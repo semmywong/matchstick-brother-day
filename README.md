@@ -6,7 +6,6 @@
 
 <div align="center">
 
-诙谐火柴哥，平淡的一天.
 
 <p>
 <img src="https://github.com/semmywong/matchstick-brother-day/blob/main/assets/qr-code.png?raw=true">
