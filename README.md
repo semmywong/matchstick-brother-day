@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
+  <img width="200" src="https://github.com/semmywong/matchstick-brother-day/blob/main/assets/cover.jpg">
 </p>
 
 <h1 align="center">火柴哥的一天</h1>
